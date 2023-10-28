@@ -3,7 +3,7 @@
 - This is an todolist include register page, login page, and todolist page.
 - User can add/delete item to todo list.
 - User can revise the content of item.
-- Display the imcomplete numbers. 
+- Display the undone numbers. 
 
 # Start Project
 - 1.clone the repository
